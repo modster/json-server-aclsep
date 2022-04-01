@@ -1,3 +1,4 @@
-# json-server-aclsep
+# JSON Server starter
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/json-server-aclsep)
+1. Run `npm run backend` in the terminal to start the server.
+2. Open a second terminal (by clicking the `[+]` icon) and run `npm run frontend` to open a simple page that fetches data from our backend
